@@ -1,0 +1,8 @@
+{
+  "name": "Kallos — Minimalist Editorial Blog Theme",
+  "description": "A clean, minimalist blog theme with exquisite typography, dark mode, high readability controls, reading progress, and live theme styling engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
